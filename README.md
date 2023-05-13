@@ -65,3 +65,9 @@ us do what we love!
 ```
 composer require api
 ```
+
+## Install Maker Bundle
+
+```
+composer require maker --dev
+```
